@@ -8,7 +8,7 @@
     Files that don't match these categories are logged into a "logs" folder, and a progress bar is shown during execution.
 
 .AUTHOR
-    Your Name (arzekeil)
+    arzekeil
 
 .DATE_CREATED
     August 18, 2024
