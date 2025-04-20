@@ -17,11 +17,13 @@ The repository is organized into folders based on the purpose and functionality 
 ## Featured Scripts
 
 ### Group-Media.ps1
+
 - **Purpose**: This PowerShell script categorizes and organizes media files (images, videos) into specific folders.
 - **Usage**: Customize the paths in the script to point to your media directories, then run the script to automatically sort and organize your media.
 
 ## How to Use
 
-1. **Clone the repository**: 
+1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/arzekeil/scripts.git
