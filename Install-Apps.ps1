@@ -20,6 +20,7 @@ $appIDs = @(
     @{name = "Git.Git" }
     @{name = "StrawberryPerl.StrawberryPerl" }
     @{name = "Microsoft.PowerShell" }
+    @{name = "Neovim.Neovim"}
     @{name = "MiKTeX.MiKTeX" }
     @{name = "Python.Python.3.13" }
     @{name = "Brave.Brave" }
@@ -27,7 +28,7 @@ $appIDs = @(
     @{name = "Spotify.Spotify" }
     @{name = "TheDocumentFoundation.LibreOffice" }
     @{name = "Bitwarden.Bitwarden" }
-
+    @{name = "JGraph.Draw" }
 );
 
 Foreach ($appID in $appIDs) {
