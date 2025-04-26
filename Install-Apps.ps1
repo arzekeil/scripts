@@ -29,6 +29,9 @@ $appIDs = @(
     @{name = "TheDocumentFoundation.LibreOffice" }
     @{name = "Bitwarden.Bitwarden" }
     @{name = "JGraph.Draw" }
+    @{name = "Hashicorp.Terraform"}
+    @{name = "Microsoft.Bicep"}
+    @{name = "calibre.calibre"}
 );
 
 Foreach ($appID in $appIDs) {
